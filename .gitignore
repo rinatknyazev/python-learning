@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Игнорируем виртуальное окружение Python
+.venv/
+venv/
+ENV/
+
+# Игнорируем настройки среды разработки PyCharm
+.id
+
+# Игнорируем мусорные файлы кэша Python
+**/__pycache__/
+*.pyc
