@@ -23,8 +23,5 @@ new_txt = ""
 m =ord('а')
 n = ord('я')
 M = ord ("А")
-M = ord ("Я")
-# Создание шифра:
-for s in txt:
-    k = ord(s)
-    if()
+N= ord ("Я")
+# Создание цифра:
